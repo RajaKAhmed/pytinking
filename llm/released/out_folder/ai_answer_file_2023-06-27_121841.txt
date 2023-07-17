@@ -1,0 +1,55 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: Here are some comments which may further illustrate the content: "05.10.00"...the original import or start date specific to this database, June 1, 1987.
+65e6b7a3-5c15-42aa-8394-00214e617a93...a self-addressed GUID to send a secure electronic message to an arbitrary mailbox in the RTRVACTF command, RTRV-ALMB. An applicant's GUID is involved in most their financial transactions at many financial institutions.
+150833000...the "generation" date of this specific applicant, or their senior, the date of a transaction 14 years prior to 2001, 203 days.
+105...105 characters per directory block in a Release 2000 JET update of the RTRV-FNCBK (Search Financial Mailbox) call with IBM's DB2 subsystem, issued in March of 2000, and likely the same file structure for other financial related databases, including those link referenced in the original dump from the initial JET IRS upload in May of 1997.
+26040...Extract subcommand digit indicating the PATD Extract, or Personal Activity Transaction Detail file. Not worth another inquiry, it really doesn't matter.
+01 00...the file area of the second segment in this specific transaction, 00032 in a space of 00100, indicating several different primary file areas that can be pulled from the PATD table, 00031 thru 00040.
+00 04 08 95 01 00 00 00 00 00 01 03 01 07 03 01 03 01 03 01 00 03 01 01 05 03 04 02 06 08 01 01 00 10 02 01 07 08 08 00 08 01 08 03 01 03 04 03 01 07 01 06 07 01 02 01 09 01 01 07 03 00 95 10 01 01 01 04 03 00 95 07 01 03 01 00 91 01 03 00 02 01 01 03 00 02 01 00 00 00 03 00 85 00 95 95 09 01 00 00 05 00 85 01 01 00 08 00 00 00 01 00 92 00 00 00 00 00 09 02 00 00 01 01 00 01 00 80 06 80 02 09 01 00 03 01 00 95 03 00 12 01 00 00 01 03 99 03 01 01 03 01 08 02 01 03 01 04 01 00 91 03 03 01 01 01 00 01 02 02 03 95 03 03 01 03 02 01 01 00 99 01 03 01 08 01 01 02 01 00 05 02 01 00 02 04 01 01 01
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: This file is about the bank branches of JP Morgan Chase. While the file is quite small it gives a good idea of the kind of data that is available and how it can be used with little effort. The data can be used in a number of ways and can be visualized using a number of different tools.
+A: What is in the file?
+Q: How do I know what is in the file?
+A: You can use the head command to see the first few lines of the file and the tail command to see the last few lines of the file.
+$ head branches.csv
+BANCCODE,BANCCODE_ST,BANCCODE_DSTY,BKCLASS,BKCLASS_FLG,BKCLASS_DESC,CBSA,CBSA_FLG,CBSA_DESC,CBSA_TOWN,CBSA_TOWN_FLG,CBSA_TOWN_DESC,CBSA_DMA,CBSA_DMA_FLG,CBSA_DMA_DESC,CBSA_DIV,CBSA_DIV_FLG,CBSA_DIV_DESC,CBSA_METRO,CBSA_METRO_FLG,CBSA_METRO_DESC,CBSA_MICRO,CBSA_MICRO_FLG,CBSA_MICRO_DESC,CBSA_NAME,CERT,CITY,COUNTY,CSA,CSA_FLG,CSA_DESC,ESTYMD,FI_UNINUM,MAINOFF,NAME,OFFNAME,OFFNUM,RUNDATE,SERVTYPE,STALP,STCNTY,STNAME,UNINUM,ZIP
+300 E Mitchell St,N,"Petoskey, MI","Emmet","",0,0,0,0,0,0,0,6672,Petoskey,Emmet,,0,0,01/01/1891,4470,0,"Fifth Third Bank, National Association",PETOSKEY MAIN OFFICE BRANCH,579,6/9/2023,11,MI,26047,Michigan,8114,49770
+201 Washington St,N,"Victor, IA","Iowa",,,0,0,0,0,0,
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: This is a credit union. Credit unions are non-profit financial institutions that are owned by their members. They offer savings accounts, checking accounts, loans, and other financial services.
+The file contains the following fields:
+1. NAME – Name of the credit union
+2. CUSIP – Unique identifier for the credit union
+3. STATE – State where the credit union is located
+4. CSA_NO – CSA identifier for the credit union's location
+5. CSA_NAME – Name of the CSA the credit union is located in
+6. CBSA_NAME – Name of the CBSA the credit union is located in
+7. FI_UNINUM – Federal identification number for the credit union
+8. MAINOFF – Main office address of the credit union
+9. NAME – Name of the credit union
+10. CITY – City where the credit union is located
+11. ZIP – Zip code where the credit union is located
+12. RUNDATE – Date the credit union was established
+13. SERVTYPE – Type of services provided by the credit union
+14. STALP – State or territory where the credit union is located
+15. STNAME – Name of the state or territory where the credit union is located
+16. UNINUM – Unique identifier for the state or territory where the credit union is located
+17. FI_NAME – Name of the financial institution
+18. FI_NUM – Number of the financial institution
+19. CBSA_DIV – CBSA identifier for the credit union's location
+20. CBSA_DIV_FLG – Flag for whether the CBSA identifier is a division
+21. CBSA_DIV_NO – Number of the CBSA division
+22. CBSA_METRO – Metropolitan area code for the credit union's location
+23. CBSA_METRO_FLG – Flag for whether the CBSA identifier is a metropolitan area
+24. CBSA_METRO_NAME – Name of the CBSA metropolitan area
+25. CBSA_MICRO_FLG – Flag for whether the CBSA identifier is a micro area
+26. CBSA_NO – Number of the CBSA micro area
+27. CSA_FLG – Flag for whether the CSA identifier is a division
+28. CSA_NO – Number of the CSA division
+29. ESTYMD – Established date for

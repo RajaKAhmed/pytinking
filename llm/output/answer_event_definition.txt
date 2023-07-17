@@ -1,0 +1,86 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: The content of each customer files will be described in the next part, but first we take a look at ERS and you will see soon enough what is in the file.
+
+The simple definition would be a collection of records, so we call a file collection of records or rows. Although the file consists of records, we choose to display the information in tables. A table to display the delivery addresses looks like
+245,450 N 56th,San Mateo,CA,California,94402,Linfox USA,3 Deliveries,08/22/2014 71105,70 N Admiral Plz,Chicago,IL,Illinois,60611,Kwik Copy,2 Deliveries,Incomplete 03/07/2015 00067,521 N Beach 116 Dr,Rhode Island,RI,50812,Rhode-Island Port Authority,1 Courier pickups,08/20/2014 83950,N Villa Ct,South Jordan,UT,84117,Rhode-Island Port Authority,1 Deliveries,03/06/2015 75001,Mo'a Kea Hotel,7777 Mauna Lani Dr #100,Kailua-Kona,HI,96867,Hawaiian Transportation Service,1 Deliveries,08/21/2014
+3 Sending/Receiving addresses, 2 Courier pickups or deliveries and 1 Delivery address..
+
+You can then ask, why not create one table for each address? Why are two address fields with the same data?
+In the ERD section, we posed the question "What is an entity".The two addresses are the same person. There are two separate line items in the billing statement file for Linfox, for example. One address is a receiving address for returned packages and the other address is where the packages are sent. The City ZIP values are the same, for example 64121, yet the periods are different.
+
+The delivery address is a location a company does business. In our case, it is the location of Linfox. Notice above it is related to the entity Linfox. There is no mention of "delivery address" in the Sales Invoice table. It is not a Linfox record, it is a location where Linfox does business and an address of a customer.
+The entity can be customer, supplier, employee, any other company, you get the picture. So now that you've got it, let's
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: A list of branch locations and their associated bank.
+
+
+Q: What are the fields?
+A: There are a number of different fields. These are the most important:
+BSA - Branch Service Area. This is the area code for the branch.
+BKCLASS - This is the class of the bank, which is one of the following: 1 - national bank 2 - state member bank 3 - state non-member bank 4 - national bank charter class 5 - state non-member bank charter class 6 - savings association 7 - federal savings association 8 - credit union 9 - the bank holding company 10 - the bank 11 - the holding company for a bank holding company 12 - the holding company for a savings association 13 - the holding company for a credit union 14 - unclassified bank or savings association, and not a subsidiary of a bank or savings association 15 - unclassified bank or savings association, and a subsidiary of a bank or savings association 16 - unclassified bank or savings association, and a subsidiary of a bank holding company 17 - unclassified bank or savings association, and a subsidiary of a savings association 18 - unclassified bank or savings association, and a subsidiary of a credit union
+CBSA - The Metropolitan Statistical Area the branch is located in. This is the Census Bureau's code for the metropolitan area.
+
+CSA - The County Service Area the branch is located in. This is the Census Bureau's code for the county.
+
+CSA_DIV_FLG, CSA_DIV_NO - The division and number for the CSA.
+
+CSA_METRO, CSA_MICRO_FLG - The division and flag for the CSA macrolevel.
+
+CBSA - The Metropolitan Statistical Area the branch is located in. This is the Census Bureau's code for the metropolitan area.
+
+CBSA_DIV_FLG, CBSA_DIV_NO - The division and number for the CBSA.
+
+CBSA_METRO, CBSA_MICRO_FLG - The division and flag for the CBSA macrolevel.
+
+CERT - The certificate number for the bank.
+
+CITY - The city the branch is located in.
+
+NAME - This is the name of the branch.
+
+OFFNAME - This is the official name of the branch, not necessarily the same as the NAME.
+
+OFFNUM - This is the official number of the branch
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: It's a list of all bank branches in the U.S. and their related data.
+Q: Where can I get this data?
+A: From the FDIC.
+Q: How did you get this data?
+A: I wrote a program that downloaded the data from the FDIC's website.
+Q: How do I replicate your results?
+A: You can download my program here .
+Q: How do I see the results?
+A: I wrote a simple program that will read the data from a file and display the results.
+Q: Is this program open source?
+A: No.
+Q: What are the columns?
+A: Columns 1-6 are the bank ID, the bank name, the state, the city, the zip code, and the address.
+Columns 7-8 are the bank class and the CSA code.
+Columns 9-10 are the bank's charter class and the bank's charter number.
+Columns 11-12 are the bank's charter state and the bank's charter number.
+Columns 13 and 14 are the bank's charter city and the bank's charter state.
+Columns 15-16 are the bank's charter zip code and the bank's charter state.
+Columns 17-18 are the bank's charter address.
+Columns 19-20 are the bank's charter city.
+Columns 21-22 are the bank's charter state.
+Columns 23-24 are the bank's charter zip code.
+Columns 25-26 are the bank's charter address.
+Columns 27-28 are the bank's charter city.
+Columns 29-30 are the bank's charter state.
+Columns 31-32 are the bank's charter zip code.
+Columns 33-34 are the bank's charter address.
+Columns 35-36 are the bank's charter city.
+Columns 37-38 are the bank's charter state.
+Columns 39-40 are the bank's charter zip code.
+Columns 41-42 are the bank's charter address.
+Columns 43-44 are the bank's charter city.
+Columns 45-46 are the bank's charter state.
+Columns 47-48 are the bank's charter zip code.
+Columns 49-50 are the bank's charter address.
+Columns 51-52 are the bank's charter city.

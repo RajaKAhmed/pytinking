@@ -1,0 +1,11 @@
+App_Name,App_ID,App_Env,App_LOB,App_LOC,App_Type,App_SLA,App_Risk,App_Region,App_Assets
+ALR,442984,QA,IB,Cloud,Web,8,Investment,USNA,Servers
+CPT,600516,DR,CCM,Cloud,DB,8,BASEL,E.ASIA,Serverless Functions
+KLB,125376,Prod,Legal,Cloud,Web,72,Investment,EMEA,Transaction Machines
+QCK,889167,Dev,CCM,On-Prem,CRM,8,Internal,USNA,Desktops
+TJF,643626,Perf,WSS,Hybrid,CRM,72,Cust Facing,LATAM,Serverless Functions
+WQH,910541,Test,TSS,On-Prem,Web,24,Internal,S.ASIA,Servers
+GZH,483697,Dev,TSS,Cloud,Web,48,Cust Facing,USNA,Transaction Machines
+UOC,371622,DR,TSS,Cloud,CRM,72,Cust Facing,E.ASIA,Serverless Functions
+UYA,181992,Perf,Legal,Hybrid,Compute,12,SOX,USNA,Desktops
+UZU,431916,Test,HR,On-Prem,DB,8,Cust Facing,USNA,Desktops

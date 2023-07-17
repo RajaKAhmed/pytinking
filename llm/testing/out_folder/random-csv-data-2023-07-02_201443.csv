@@ -1,0 +1,11 @@
+App_Name,App_ID,App_Env,App_LOB,App_LOC,App_Type,App_SLA,App_Risk,App_Region,App_Assets
+ZYE,70640,QA,CCM,Cloud,Web,48,None,S.ASIA,Transaction Machines
+YDQ,894808,Archive,WSS,Hybrid,Compute,8,BASEL,AUS,Serverless Functions
+DMF,474,Prod,IB,Hybrid,Compute,72,Investment,EMEA,Desktops
+XEG,532157,Perf,Legal,Cloud,Compute,8,Cust Facing,SE.ASIA,Desktops
+RIB,207602,Test,CCM,Cloud,Compute,12,None,E.ASIA,Servers
+NQO,911148,DR,Legal,Cloud,CRM,12,SOX,LATAM,Serverless Functions
+TQK,171949,QA,IB,On-Prem,CRM,8,Cust Facing,SE.ASIA,Desktops
+ZJQ,316800,Dev,TSS,On-Prem,Compute,48,None,S.ASIA,Desktops
+ASG,54504,DR,CCM,Hybrid,Web,8,BASEL,E.ASIA,Transaction Machines
+BTY,294852,DR,ETS,Cloud,DB,8,Cust Facing,USNA,Desktops

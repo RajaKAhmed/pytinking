@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customized Open AI Menu</title>
+</head>
+<body>
+    <h1>Personas</h1>
+    <ul>
+        {% for item in menu_items %}
+        <li>
+            <form action="/select" method="POST">
+                <input type="hidden" name="item" value="{{ item }}">
+                <input type="submit" value="{{ item }}">
+            </form>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

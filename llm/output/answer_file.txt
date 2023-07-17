@@ -1,0 +1,99 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: The astute Outlier hits on a very important point.  This is a list of BMO branches across the U.S., along with feature info.  This file is updated at the end of each month, new branches are added each month.
+Q: And why is each state a separate file?
+A:  It's here in the FAL -- F antastically A dventuresome L ocation.  [Allen: This is a class 1 felony.]
+Q: Can you tell me the purpose of the various columns?
+A:  Yes.
+"2100 W Chicago Ave,N,ILLINOIS,IL,60664,60664,"Just the storefront."
+A:  This is the address of the branch. "HOU",892,"1(?:212|612) NWLA Area Code",N,"Odessa-Midland, TX",432,432,432,432,"93164","<=500","DmeBk","Standard","The Comanche Building"
+A:  This follows the format in wikipedia, at https://en.wikipedia.org/wiki/List_of_United_States_courthouses .  Note that for Texas I had to guess at the area codes.  I used the site http://inaccurate Information . com/texas/612-area-codes/ to convert hex values to numbers.  " " is a tab character, so you should replace it with a real space on the command line.
+502 9th St,SB,NEW MEXICO,NM,87901,"Sector 023807 - Albuquerque"
+A:  This follows the format used in the US bureau of prisons file, at https://www.bop.gov/resources/offices-headquarters/institution-specialist/accuracy-BOP-data-assessment .
+Q: Any things I should look out for?
+A:  Yes.  The ASSIGN column cannot be relied upon.  For some reason items can get that attribute even when they do not appear in the file.  The RECINK column can be influenced by the SRS , these branches are still new, I suspect some year down the road we'll have an error corrected value for these branches.  I've also noticed that in some instances the SEQNO  in the 03120 file is missing or incorrect.
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: We have a bank with 20 branches and each branch has a different terminal id. We need a query that will retrieve the branch name, address and the 5 most recent transactions for each branch. We will use the data from this query to populate a drop-down list of branches. We will allow the user to select a branch from the drop-down list and will run the query to show the 5 most recent transactions.
+
+
+Q: What is the data format?
+A: The data is one row per terminal id and there are 20 terminal ids.
+
+
+Q: What is the data source?
+A: The data comes from a file and is read into a data table.
+
+
+Q: What are the fields?
+A: There are 20 fields, the first field is the terminal id, the next 19 fields are the branch name, address and the 5 most recent transactions.
+
+
+Q: What are good names for the columns?
+A: The first field is named TERMINAL_ID and the other 19 fields are named BRANCH_NAME, ADDRESS, BKCLASS, CBSA, CBSA_DIV, CBSA_DIV_FLG, CBSA_DIV_NO, CBSA_METRO, CBSA_METRO_FLG, CBSA_METRO_NAME, CBSA_MICRO_FLG, CBSA_NO, CERT, CITY, COUNTY, CSA, CSA_FLG, CSA_NO, ESTYMD, FI_UNINUM, MAINOFF, NAME, OFFNAME, OFFNUM, RUNDATE, SERVTYPE, STALP, STCNTY, STNAME, UNINUM, ZIP.
+
+
+Q: How many records are in the file?
+
+A: There are 20 records.
+
+
+Q: How many fields are in each record?
+
+A: There are 20 fields in each record.
+
+
+Q: How many fields in a row?
+
+A: There are 19 fields in each row.
+
+
+Q: What is the maximum field width for each field?
+
+A: The maximum field width for each field is 40 characters.
+
+
+Q: What is the data type for each field?
+
+A: The first field is a character field type and the remaining fields are numeric fields.
+
+
+Q: Which fields are required?
+
+A: The first
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: It is a list of bank branches in the United States.
+Q: How do I know that?
+A: Look at the "Q:" and "A:" in the first column.
+Q: What are the columns in the file?
+A: The first column is the "Q:" and "A:" mentioned above.
+The second column is the "ADDRESS" of the branch.
+The third column is the "BKCLASS" of the branch.
+The fourth column is the "CBSA" of the branch.
+The fifth column is the "CBSA_DIV" of the branch.
+The sixth column is the "CBSA_DIV_FLG" of the branch.
+The seventh column is the "CBSA_DIV_NO" of the branch.
+The eighth column is the "CBSA_METRO" of the branch.
+The ninth column is the "CBSA_METRO_FLG" of the branch.
+The tenth column is the "CBSA_METRO_NAME" of the branch.
+The eleventh column is the "CBSA_MICRO_FLG" of the branch.
+The twelfth column is the "CBSA_NO" of the branch.
+The thirteenth column is the "CERT" of the branch.
+The fourteenth column is the "CITY" of the branch.
+The fifteenth column is the "COUNTY" of the branch.
+The sixteenth column is the "CSA" of the branch.
+The seventeenth column is the "CSA_FLG" of the branch.
+The eighteenth column is the "CSA_NO" of the branch.
+The nineteenth column is the "ESTYMD" of the branch.
+The twentieth column is the "FI_UNINUM" of the branch.
+The twenty-first column is the "MAINOFF" of the branch.
+The twenty-second column is the "NAME" of the branch.
+The twenty-third column is the "OFFNAME" of the branch.
+The twenty-fourth column is the "OFFNUM" of the branch.
+The twenty-fifth column is the "RUNDATE" of the branch.
+The twenty-sixth column is the "SERVTYPE" of the branch.
+The twenty-seventh column is the "STALP

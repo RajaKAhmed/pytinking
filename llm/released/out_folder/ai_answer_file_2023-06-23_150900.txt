@@ -1,0 +1,102 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: Blat supports dynamic columnss . Columns are items inside the database that can represent data in many different ways. For example, the following is an excerpt of a Dublin Core metadata description of a particular picture ("14316":http://www.ldc.upenn.edu/cgi-bin/cgiwrap/ldc/search-2.pl?sno=2561):
+<dc:creator>Kemp M., 2010</dc:creator>
+<dc:rights>All Rights Reserved</dc:rights>
+<dc:type standard="image" authority="sopix"/>
+<dc:type term="ks-fpx2" authority="sopix">Fast Photo X2, Fushigi-Koh</dc:type>
+<dc:title></dc:title>
+Structured Query language provides flexible data selection conditional expressions for data reading. Information policy on data access from a database can be enforced by creating indexes tables etc. automatically. These facilities power various tables sorting, grouping, and aggregation of data. Queries are constructed over regular SQL syntax. Due to this, users don't need to learn any new language for executing requests.
+Performance and power of database internal logic (select, where, sort etc.) are provided to client modules. This allows building high-performance tools, such as information search engines. A very simple HTTP request consists of accessing a web page, reading huge amounts of data about different subjects, making sense of all this data and providing users with a required piece of knowledge.
+Existing programming languages like R or Python expose over 700 C/C++ functions to interact with database. Through the application level logic provided by HTTP server requests, all of them can be used. This approach enables scalable performance, concurrent use of web server by many users, and more than that, very clean concurrency-control logic that is used to fetch data from the database. 
+
+
+Q: Was the project successful?
+A: Yes, it became more successful than I expected. In the early day of software technology, the Internet was the major reach of functionality to be available: it was not long to wait, not expensive to contact, etc. Currently, the situation changed dramatically; some people started to use HQL and see its enormous potential. Financial institutions started to demand more sophisticated technology solutions on a daily basis. So concurrent requests became a norm and there have to be multiple ways to access
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: The file contains a list of address, city, state, zip, and bank name for each branch of a bank.
+Q: Where can I find the data?
+A: You can find the data at https://data.gov/resource/q7c9-z8t3
+Q: What is the license?
+A: The license is CC0 1.0 Universal . You can use the data for any purpose, including commercial use, without asking permission.
+Q: What is the data source?
+A: The data is from the Consumer Financial Protection Bureau https://www.consumerfinance.gov/about-us/newsroom/cfpb-releases-list-of-addresses-and-phone-numbers-for-financial-institutions-to-help-consumers-navigate-the-federal-bankruptcy-process/
+Q: What was the most difficult thing about preparing the data?
+A: The most difficult thing was the three-way join between the bank, branch, and address tables. The data from the CFBP is in a format where the branch belongs to a bank, and the address belongs to a branch. This is illustrated in the following diagram:
+Figure 1: Dataflow Diagram
+The data was extracted from the CFBP in the form of files, with each file containing one bank. Each file contained an address, city, state, zip, and bank name for each branch. To construct the desired output, a three-way join was necessary, as shown in the diagram above.
+A: There are no known issues.
+A: This is a simple query that produces the desired output:
+SELECT *
+FROM `https://data.gov/resource/q7c9-z8t3`
+WHERE STNAME = 'First Federal Bank of Wisconsin'
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: This is a list of all the branches of the Fifth Third Bank, a large financial institution based in Cincinnati, Ohio.
+
+Q: What is the problem?
+A: The data is stored in a CSV file, and the customer wants to import it into a database.
+
+Q: What is the solution?
+A: The customer can use the LOAD DATA statement in SQL.
+
+Q: What is LOAD DATA?
+A: LOAD DATA is a SQL command that allows a user to import data from a file into a table.
+
+Q: What are the arguments of LOAD DATA?
+A: The arguments of LOAD DATA are:
+
+The file name is a required argument.
+
+A file is a text file with one row per line.
+
+A field delimiter is a character that separates fields.
+
+A line delimiter is a character that separates lines.
+
+Q: What is the syntax of LOAD DATA?
+A: The syntax of LOAD DATA is:
+
+Q: What is the format of the LOAD DATA statement?
+
+A: The format of the LOAD DATA statement is:
+
+Q: What is the structure of the LOAD DATA statement?
+
+A: The structure of the LOAD DATA statement is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the file?
+A: The format of the file is:
+
+Q: What is the format of the
