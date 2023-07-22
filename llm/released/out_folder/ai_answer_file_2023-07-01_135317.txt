@@ -1,0 +1,140 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: The primary purpose of the file is to keep track of pre-released music which may later be included on an artist's authorized album. It can also be used to denote official free promotional singles handed out to fans.
+
+Q: Why is a cover version listed?
+A: Commercial singles featuring cover songs have been listed in the past, although they appear to be rare in the Internet era (2003-present). The files which contain a cover song do so because that material was available on a retail single.
+
+Q: What is a joint release?
+A: Joint releases occur when a record company chooses to distribute multiple artists' singles through a full-fledged, one-off single. In these instances, each participating artist has a commonly recognized album. Thesingles lists all major, primary artists on a single release.
+
+Q: Who is listed first on a joint release?
+A: While it is difficult to say, the listed artist who is credited on the commercial single is placed first.
+
+Q: How does a different material version get shown in the same listing with all previous versions?
+A: Thesingles rules state that all material versions in a discography shall be listed. This includes all standard material albums, commercial singles, material DVDs, digital HD tracks, etc.
+
+Q: Should the release date just apply to the song that was released?
+A: Only complete singles are listed, and singles are defined as having at least four separate tracks with the primary one being a non-interpolated. Dates on remixes can be used if they appear on between four and eight tracks. They must not be part of a larger release.
+
+Q: Why are only some videos listed?
+A: Presently only official videos are listed. Promotional videos can be listed at some point in the future if they may fulfill certain criteria.
+
+Q: Thesingles rules state that all commercial/digital singles must be officially released digitally. Does that mean they must be officially, by the artist, or the label?
+A: The singles are listed by the label; should the artist choose not to official release the material in question digitally, it is not listed on the regular. This means that singles which appear exclusively in a certain artist's merchandise are listed, but not releases that only appear for sale at a live show.
+
+Q: Should remixes which appear on third party releases be listed?
+A:
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: The file contains information on the status of the aircraft. In particular, it indicates the status of the onboard oxygen generating system, the fuel-oil system, the hydraulic system and the fire extinguishing system.
+
+Q: What is a QRH?
+A: The QRH is an acronym for Quick Reference Handbook. It contains the normal procedures for the flight crew. (See the "QRH" file below)
+
+Q: What is a QRH?
+A: The QRH is an acronym for Quick Reference Handbook. It contains the normal procedures for the flight crew. (See the "QRH" file below)
+
+Q: What is the file about?
+A: It contains the various documents used by the flight crew.
+
+Q: What is the file about?
+A: The file contains information on the use of the aircraft and its systems.
+
+Q: What is the file about?
+A: In this file there are the manuals on the various aircraft systems and their potential failures.
+
+Q: What is the file about?
+A: The file contains the charts and maps normally used by the crew during the flight.
+
+Q: What is the file about?
+A: This file contains the information about the route to be followed and the places to be visited.
+
+Q: What is the file about?
+A: In this file there are the maintenance records of the aircraft.
+
+Q: What is the file about?
+A: This file contains the information on the various damages suffered by the aircraft.
+
+Q: What is the file about?
+A: In this file there are the documents required by the authorities of various countries during the flight.
+
+Q: What is the file about?
+A: This file contains the information on the flight crew.
+
+Q: What is the file about?
+A: This file contains the information on the passengers.
+
+Q: What is the file about?
+A: This file contains the information on the flight crew, the passengers and the cargo.
+
+Q: What is the file about?
+A: This is the folder where the collection of all the "*.bab" files is stored.
+
+Q: What is the file about?
+A: This file contains the aircraft's log book.
+
+Q: What is the file about?
+A: In this file there are the
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: It is an XML file that stores the configuration of the user's system.
+
+Q: What is the purpose of the file?
+A: The file contains settings and options for all the applications that are installed on the system.
+
+Q: Where is the file located?
+A: The file is located in the C:\Users\[user_name]\AppData\Local\Microsoft\Windows\UsrClass.dat.
+
+Q: How can the file be accessed?
+A: The user can access the file by going to the Control Panel -> System and Security -> System.
+
+Q: What can be done with the file?
+A: The file can be used to change the system's settings.
+
+Q: What does the file look like?
+A: The file is a binary file.
+
+Q: How can the file be created?
+A: The file can be created by the user.
+
+Q: How can the file be deleted?
+A: The file can be deleted by the user.
+
+Q: How can the file be repaired?
+A: The file can be repaired by the user.
+
+Q: What is the file's location?
+A: The file is located in the C:\Users\[user_name]\AppData\Local\Microsoft\Windows\UsrClass.dat.
+
+Q: What is the file's size?
+A: The file's size is 0 bytes.
+
+Q: What is the file's content type?
+A: The file's content type is Binary.
+
+Q: What is the file's format?
+A: The file's format is Application.
+
+Q: What is the file's extension?
+A: The file's extension is .dat.
+
+Q: What is the file's MIME type?
+A: The file's MIME type is application/octet-stream.
+
+Q: What is the file's purpose?
+A: The file is used to store the user's settings.
+
+Q: What is the file's size?
+A: The file's size is 0 bytes.
+
+Q: What is the file's content type?
+A: The file's content type is Binary.
+
+Q: What is the file's format?
+A: The file's format is Application.
+
+Q: What is the

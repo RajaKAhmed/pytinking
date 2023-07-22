@@ -1,0 +1,49 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: The file Business.info is some commercial business data for training. There are total of 539827 records; each record has about 5-6 parameters (address, population, etc). Now let's dive into the file.
+
+DATA SOURCE:
+The business data is acquired by National Center for Charitable Statistics of the Urban Institutehttp://nccsdataweb.urban.org/PubApps/main.asp
+
+
+Q: What is the data type of each column of your dataset?
+A: The file is a delimited text file. So in order to transform it into a series of hash tables, we need to convert each column named as Business to a hash table, whose keys are all string and values are some numerical values as shown here:
+
+# by default map values to 0 vector and convert to hash table ( Business = hash ( names = c ("Long_Name", "Mu_Name"), keys = list ( NULL ), values = "0" ))) # view the output Business
+
+
+Output:
+
+
+Each column of the Dataframe is converted to a set of key-value pairs.
+
+The columns Business and Business_LFI contain numerical values. The rows have different hash tables based upon Business parameters such as Long Name, Mu Name, type of Business and Address. In case there was a need to map each data point to multiple keys in a single hash element, you could provide names = c( , ) when converting each column of the dataframe to hash table.
+
+Output:
+
+# by default map values to 0 vector and convert to hash table ( Business = hash ( names = c ("Long_Name", "Mu_Name"), keys = list ( NULL ), values = "0" ))) # view the output Business
+
+
+Output:
+
+
+Now Business data of Business.info is transformed into a set of hash tables. For example:
+
+# view hash table head (Business[,2],"Business_City")
+
+
+Output:
+
+
+# view hash table: Restaurant Long Name
+
+
+Output:
+
+
+Q: What are the various functions that you can apply to hash tables that won't apply to other data types?
+
+A: This is the most anticipated (but also tricky) question in this chapter. Before we get into the question, let's first understand the basic difference between R enumerated objects and hash tables.
+
+We can see that R enumerated type

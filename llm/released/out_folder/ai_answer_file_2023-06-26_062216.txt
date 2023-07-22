@@ -1,0 +1,119 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: The file is an Excel file, where each row represents one bank branch and contains the branch address, city, state, county, zip code, service type and much more. Q: How does a bank branch tenant object look like?
+A: The Bank_Tenant_Source_Appraisal_Report.xml.gz file looks like this (try it with your favorite compression program): word 2003 zip schema doc word 2008 zip schema doc xml ntext ntext ---------------------------------------------------- | word 2003 zip schema doc word 2008 zip schema doc xml ntext ntext | ---------------------------------------------------- x16000000000000000210000000000FFFE /* headers */ 
+x200BC00000012030000200000002000000 /* footers */ 
+x06D593471407F007D009F42AF5069505 /* OOXMLObjects and Elements */
+x0E9A170E0A81DBE03141ABBD426D2B4 /* hachured elements */ ------ x03C10565ED5E6870A7F5C67E858F2868 /* hachured elements */
+zip key
+
+
+Q: Can I use the number of customers as a performance benchmark?
+A: In general you can not use the number of customers as a performance benchmark when building your decision support system. If you try to do so and the performance of your data discovery system sucks, then no optimization tweak will help you! There are however reasons to keep the number of customers if you want to:
+- generate additional non-IT and IT KPIs;
+- run additional separation tests;
+- compare various scenarios;
+- evaluate the potential of the CRM add-in tools;
+- await for the next release of the CRM Connector.
+Q: I want to avoid rebuilding the full data warehouse (DWH). Can I still experiment with data mining and predictive modeling features of the DWH using subsets of data?
+A: Yes. The combination of csv files and R will help you in this case:
+- build the ETL process for your favorite data mining algorithms;
+- construct a SQL/PL script for data mining;
+- have the ETL replicate the data stores used for data mining;
+- make them immediately available for analysis.
+If the ETL script is coded correctly, you can even make each update to the source CSVs available to business analysts, data miners
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: The file shows the account number, the bank name, the state, the county, the city, the branch address, and the zip code.
+
+Q: How can I use the file?
+A: You can use the file to make some interesting plots.
+
+For example, you can use the county as the x-coordinate, the city as the y-coordinate, and the population as the value. You can use the population data to color the points. You can add a legend to the plot to show what each color represents. The following code gives the plot:
+
+library(ggplot2) # For plotting
+
+bank <- read.table("datasets/bank_account.txt",header=T) # Read the file
+
+colnames(bank) <- c("state","county","city","address","zip") # Change the names to column names
+
+bank$state <- bank$state[order(bank$state)] # Sort by state
+
+bank$city <- bank$city[order(bank$city)] # Sort by city
+
+bank$county <- bank$county[order(bank$county)] # Sort by county
+
+bank$address <- bank$address[order(bank$address)] # Sort by address
+
+bank$zip <- bank$zip[order(bank$zip)] # Sort by zip
+
+bank$population <- bank$population[order(bank$population)] # Sort by population
+
+bank$city <- as.factor(bank$city) # Turn cities into factors
+
+bank$income <- bank$population / bank$zip # Turn population into income
+
+bank$income <- bank$income * 10000 # Turn population into income in thousands
+
+ggplot(bank,aes(x=county,y=city,color=income)) +
+
+geom_point(size=5) +
+
+geom_text(aes(label=city),color="black") +
+
+theme_bw() +
+
+xlab("County") +
+
+ylab("City") +
+
+theme(legend.position="none") +
+
+scale_color_viridis(name="Income") +
+
+scale_x_continuous(breaks=c(1,2,3,4,5,6,7,8,9
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: This file contains the list of all the bank branches that are going to be closed in the next 3 years.
+Q: Where can I find the data?
+A: The data is freely available at the following location: http://www.fdic.gov/bank/individual/failed/banklist.html
+Q: Where can I find the license?
+A: The license for this data is available at the following location: http://www.fdic.gov/bank/individual/failed/banklist.html
+Q: Where can I find the data dictionary?
+A: The file contains a data dictionary with the following information:
+Q: Which columns are available?
+A: The columns are:
+Q: Which rows are available?
+A: The rows are:
+Q: Which rows do I need?
+A: The rows that you need depend on the question that you want to answer.
+Here is the list of the rows that I have extracted from the file:
+Q: What is the data format?
+A: The data is available in CSV format.
+Q: How do I use the data?
+A: You can use the data to answer questions like:
+Q: What is the structure of the data?
+A: The data is available in CSV format.
+Q: How do I get started?
+A: The following steps will help you get started:
+Q: Which rows do I need?
+A: The rows that you need depend on the question that you want to answer.
+Here is the list of the rows that I have extracted from the file:
+Q: What is the data format?
+A: The data is available in CSV format.
+Q: How do I use the data?
+A: You can use the data to answer questions like:
+Q: What is the structure of the data?
+A: The data is available in CSV format.
+Q: How do I get started?
+A: The following steps will help you get started:
+Q: Which rows do I need?
+A: The rows that you need depend on the question that you want to answer.
+Here is the list of the rows that I have extracted from the file:
+Q: What is the data format?
+A: The data is available in CSV format.
+Q: How do I use the data?
+A: You can use

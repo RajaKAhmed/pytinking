@@ -1,0 +1,107 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: Everything your bank or credit union does with ACH scams. Called file ACHERASE.
+Q: How do I get a hold of that data?
+A: For $500 per month in bitcoins you can have the data dumped and emailed to you in an excel spreadsheet. This costs less than buying it yourself from NACHA. NACHA's minimum price on data is $1500.
+Q: But I'm going to just torrent it. Why should I pay you?
+A: I can trace back every download of me to you. When the FBI taps my phones, they aren't listening to just me. In theory, I can deliver the real data to your email and you can act like you bought it from me. No way to prove I uploaded the file to the internet.
+Q: I still want to torrent it, why?
+A: I give up.
+Q: How quickly can you deliver the scammed amounts?
+A: Probably within a month or 2. This is not my full time job.
+A: No. Sorry. But this data dump is available for free for printing and phishing.
+A: Occasionally, yes. ACH matters.
+Tom Davis  rages about ACH fraud on twitter. Follow for ranty goodness. You will not be disappointed.
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: The file contains all of the data about the banks in the United States. I pulled all of it from the bank's website (http://www.bank-info.com)
+Q: What is the CSV file about?
+A: The CSV file contains information about each bank (Name, Address, City, State, ZIP, Phone number, Branch IDs, and more). I found this file online and am not sure of the original source, but I am assuming that it is from the same website mentioned above.
+A Note About the Code
+I am posting my code here for anyone to use for any purpose. I would appreciate it if you left a comment about how you used it, along with a link to your site.
+I am not a professional, and this is my first time sharing code. I tried my best to comment it, and break it down into parts for easy understanding and modification. I also tried to make it modifiable to fit anyone's needs. I am sure that there are many errors and bugs within the code.
+I have tested it out to make sure it runs properly, and it seems to work just fine. It is missing a lot of error handling, but that can be easily added.
+I am sure that this code is not perfect or exactly what you are looking for. I created it to meet my own needs. If I have missed anything or if you have any questions, please leave a comment below.
+I also created some videos for the code, which can be found here:
+Part 1: https://www.youtube.com/watch?v=s6QRKpqV1bc
+Part 2: https://www.youtube.com/watch?v=fE_fXgJQ35A
+Part 3: https://www.youtube.com/watch?v=XVXx4jZ6v1U
+Part 4: https://www.youtube.com/watch?v=xKkZKt3mW-g
+Part 5: https://www.youtube.com/watch?v=JWgGpHJkGpM
+Part 6: https://www.youtube.com/watch?v=_XbZo6Gm6Tw
+Part 7: https://www.youtube.com/watch?v=cBkL0w3k_sw
+Part 8:
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: This file contains information about bank branches in the US. Each record represents a branch of a bank in the US, and the file contains the following fields:
+- Bank name
+- State name
+- City name
+- Zip code
+- Address
+- Branch name
+- Address
+- Branch class
+- Branch type (Main office, Main office branch, Sub office, Branch, Private bank)
+- Branch status (active, closed, merged, sold, converted, acquired, etc.)
+- Branch date (when the branch was opened or closed)
+- Branch number
+- Branch phone number
+- Bank class (national bank, state bank, etc.)
+- Bank status (active, inactive, etc.)
+- Bank number
+- Bank charter number
+- Bank assets
+- Bank deposits
+- Bank capital
+- Bank charter number
+- Bank charter state
+- Bank charter city
+- Bank charter zip code
+- Bank charter address
+- Bank charter phone number
+- Bank charter website
+- Bank charter email address
+- Bank charter fax number
+- Bank charter routing number
+- Bank charter SWIFT code
+- Bank charter type (state bank, national bank, etc.)
+- Bank charter type code
+- Bank charter type description
+- Bank charter type flag (Main bank, Subsidiary bank, etc.)
+- Bank charter city
+- Bank charter state
+- Bank charter address
+- Bank charter zip code
+- Bank charter phone number
+- Bank charter website
+- Bank charter email address
+- Bank charter fax number
+- Bank charter routing number
+- Bank charter SWIFT code
+- Bank charter type (state bank, national bank, etc.)
+- Bank charter type code
+- Bank charter type description
+- Bank charter type flag (Main bank, Subsidiary bank, etc.)
+- Bank charter phone number
+- Bank charter website
+- Bank charter email address
+- Bank charter fax number
+- Bank charter routing number
+- Bank charter SWIFT code
+- Bank charter type (state bank, national bank, etc.)
+- Bank charter type code
+- Bank charter type description
+- Bank charter type flag (Main bank, Subsidiary bank, etc.)
+- Bank charter city
+- Bank charter state
+- Bank charter address
+- Bank charter zip code
+- Bank charter phone number
+- Bank charter website
+- Bank charter email address
+- Bank charter fax number
+- Bank charter routing

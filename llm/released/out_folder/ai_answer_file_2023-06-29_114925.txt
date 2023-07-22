@@ -1,0 +1,79 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: It is a data set, containing information about banks listed on the FDIC web site. Q: Where do I get it?
+A: http://www.ffda.net/QFDDownload.aspx?DataSet , with a federal ID of QFD4QA. Q: How do I use it?
+A: This data set was created for ease of import into Quick Basic, and has no actual value. Q: Who can see this information? A: Anyone at any location. Q: How accurate is this data?
+A: Depends on the results you want. Generally, poor. Vangalder spent a few hours every morning updating. One day, vangalder had to chug milk down, soak up the sugar from cookies, and lock Vangalder's thighs in a rubber steel chastity belt. Vangalder went five days once. Vangalder spent hours looking for socks, and almost had to wear sandals. Chuck Norris thinks of words that have never been used before, and then looks them up in the dictionary. Potatos can be either white or red. Spaghetti is like a resistor; it heats up when you put it in water.
+Steve is an architect. 
+Jeff and Sarah were fifth grade sweethearts. Patricia was voted "Most Likely to Ride the Palm Trees" in high school, but she never completed the project. The town trotted him out every July fourth, and at this point, he did not weigh as much as the white buildings; most had been eaten away by the acid in the rain and the sun. Caitlyn and Connor had been married for five years. Caitlyn did not last any longer than an hour in the sun. Snow would fall and crackle and chuckle, retreating when exposed to the acidic, leeching clouds that sat above the miles of sidewalk, and would, for a brief moment, detach from their place at the bottoms of the chimneys. One day, Caitlyn took Connor with her, running full-speed down marble pavements, her bare toes leaving circular depressions in the ice, and laughed to Connor, who joined Caitlyn in leaning into a harsh, cutting wind, balmy for this time of year. Caitlyn stopped abruptly, placing a foot against the cold, white cement. Snow melted from the four-story building before her - its beginning half-eaten by a cheerful yellow fire behind it
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: It is a list of branch addresses and contact information for various financial institutions.
+Q: How do I get information about the fields?
+A: The easiest way is to sort on the column you are interested in and look at the summary statistics. In Excel this can be done by right clicking on the column header and choosing "Sort" from the menu.
+Q: Why does the data look like it was made in the 1980s?
+A: It was collected in the 1980s and then forgotten about.
+Q: Is the data trustworthy?
+A: I have not validated it. I don't know if any of the data has been updated from the original sources. If you spot a problem let me know.
+Q: Can you send me the file?
+A: I do not have any plans to distribute the file. It is provided as-is for your personal use only. It is a large file and I don't want to be responsible for people wasting their time on it if it's not what they are looking for.
+Q: Can I have the file?
+A: You can download the file from here .
+Q: Can I have a copy of your code?
+A: Here is the code. If you have questions about how it works, let me know.
+Q: Why are there state abbreviations in the location descriptions?
+A: The branch addresses are not part of the main dataset. They are from a different source and were added to help with the state abbreviation look-up.
+Q: Why does the data look like it was made in the 1980s?
+A: It was collected in the 1980s and then forgotten about.
+Q: Is the data trustworthy?
+A: I have not validated it. I don't know if any of the data has been updated from the original sources. If you spot a problem let me know.
+Q: Can you send me the file?
+A: I do not have any plans to distribute the file. It is provided as-is for your personal use only. It is a large file and I don't want to be responsible for people wasting their time on it if it's not what they are looking for.
+Q: Can I have the file?
+A: You can download the file from here .
+Q: Can I have a copy of your code?
+A: Here is the code. If you have questions about
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: This file is a list of all bank branches in the United States. It has been updated monthly since June 2016.
+Q: Where did you get the data?
+A: The data is collected from the FDIC website. It is a list of all FDIC-insured banks in the United States.
+Q: Where can I find the source code?
+A: The source code is available on GitHub .
+Q: How often is the data updated?
+A: The data is updated monthly.
+Q: What does the file contain?
+A: The file contains a list of bank branches in the United States. It contains the following columns:
+BKNAME - The name of the bank
+BKADDRESS - The address of the bank
+BKCLASS - The class of the bank
+BKCBSA - The CBSA code of the bank
+CBSA - The CBSA code of the bank
+CBSA_DIV_FLG - The CBSA division flag of the bank
+CBSA_DIV_NO - The CBSA division number of the bank
+CBSA_METRO - The CBSA metro code of the bank
+CBSA_METRO_FLG - The CBSA metro flag of the bank
+CBSA_METRO_NAME - The CBSA metro name of the bank
+CBSA_MICRO_FLG - The CBSA micro flag of the bank
+CBSA_NO - The CBSA number of the bank
+CERT - The certificate number of the bank
+CITY - The city of the bank
+COUNTY - The county of the bank
+CSA - The CSA code of the bank
+CSA_FLG - The CSA flag of the bank
+CSA_NO - The CSA number of the bank
+ESTYMD - The estimated year of the bank
+FI_UNINUM - The FI_UNINUM of the bank
+MAINOFF - The main office of the bank
+NAME - The name of the bank
+OFFNAME - The name of the branch
+OFFNUM - The number of the branch
+RUNDATE - The run date of the data
+SERVTYPE - The type of service the branch provides
+STALP - The state of the branch
+STCNTY - The state code of the branch
+STNAME - The state name of the branch
+UNINUM - The unique identifier of the

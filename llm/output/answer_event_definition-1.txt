@@ -1,0 +1,167 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: The file is a list of all bank branches in Wisconsin. The output contains name, address of the branch, zip code and bank name of that branch, in addition to information about the bank. Look at Fig. 12.4. Typically, the first field describes the type of location (for example, LTST), the next five fields contain location-specific attributes, and following these 5 fields, the author’s detailed description of the location and source of data. This pattern can be seen repeatedly in the output. Note the columns FI_UNINUM and DRNUM which refer to unidentified neonums and numeric data respectively.
+
+
+Fig. 12.4Branch names and data from branchFG080.pds uncompressed suffixes.
+
+
+The next level, FIPS, covers state level, i.e. the location is more or less in the center of the several branch locations. Look at Fig. 12.5. Let us again follow the same style as we did for branchFG080.
+
+
+Fig. 12.5Branch names and data from branchFI100_A51.pds uncompressed suffixes.
+
+
+First, we have the FIPS (First Interstate Placement Station) code followed by a dash and then the name of the location is described in the more or less usual format. The next column is BRLEV (Bank Region Level Elevation), for which this case is very clear so we see the identifier 20000 at the exact center of the 20 bins.
+
+Format
+
+File Name
+
+Digits
+
+Field's Contents
+
+Remark
+
+
+FIPS
+
+FKCC100
+
+15
+
+FIPS code
+
+Second label-free data of the training data set
+
+
+COUN
+
+FKCC100
+
+9
+
+COUNTRY
+
+FIPS Code
+
+
+DIR
+
+FKCC100
+
+10
+
+Direction
+
+North,South,East,West
+
+
+ACCTINUM
+
+FKCC100
+
+9
+
+Account Number
+
+North,South,East,West
+
+
+ELEV
+
+Selected
+
+1
+
+El vation
+
+Not available
+
+
+LSADDRESS
+
+FKCC100
+
+15
+
+Location's Address
+
+Identifier for the location
+
+
+CLASS
+
+$300
+
+9
+
+CLASS
+
+MAINOFF: Main office branch
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: The file is about the current and future addresses of branches of some banks.
+Q: How was the file created?
+A: The file was created by the bank's IT department as part of a project to enable the bank to provide their customers with the ability to deposit checks remotely using the Internet.
+Q: How is the file organized?
+A: The file is organized by state, then by city, then by bank name, and finally by branch name.
+Q: What is the data type of each column?
+A: The data types of the columns are string (text), integer, integer (2), integer (2), integer, integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2), integer (2), string (text), integer (2), integer (2), integer (2
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: The file has a list of all the bank branches in the US, their addresses, and a few other details.
+Q: How many rows are there?
+A: 604,842
+Q: How many columns are there?
+A: 23
+Q: What does each column mean?
+A: Columns 1-22 are the branch details. Columns 23-24 are the branch's parent bank.
+Q: What is the format of the data?
+A: The first 22 columns are all text. The 23rd column is a date, and the 24th is a number.
+Q: What is the data type of the first 22 columns?
+A: Text.
+Q: What is the data type of the 23rd column?
+A: Date.
+Q: What is the data type of the 24th column?
+A: Number.
+Q: How many rows have NULL values in the columns?
+A: 5,184,812
+Q: What is the data type of these rows?
+A: Number.
+Q: How many rows have NULL values in the columns?
+A: The NULL values are in columns 23 and 24.
+Q: What is the data type of these rows?
+A: Text.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A: Number.
+Q: What is the data type of these rows?
+A:

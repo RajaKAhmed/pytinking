@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Raja's LLM Tab</title>
+    <style>
+        body {
+            text-align: center;
+            margin-top: 50px;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        textarea {
+            width: 400px;
+            height: 200px;
+        }
+
+        input[type="submit"] {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        #generated-text {
+            margin-top: 20px;
+            background-color: #f3f3f3;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Raja's LLM Interface</h1>
+    <form action="/generate" method="POST">
+        <textarea name="user_input" placeholder="How can I help you"></textarea>
+        <br>
+        <input type="submit" value="Generate">
+    </form>
+    {% if generated_text %}
+        <div id="generated-text">
+            <h3>Generated Response:</h3>
+            <p>{{ generated_text }}</p>
+        </div>
+    {% endif %}
+</body>
+</html>

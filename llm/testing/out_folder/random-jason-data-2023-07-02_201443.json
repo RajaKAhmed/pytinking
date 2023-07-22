@@ -1,0 +1,122 @@
+[
+    {
+        "App_Name": "ZYE",
+        "App_ID": 70640,
+        "App_Env": "QA",
+        "App_LOB": "CCM",
+        "App_LOC": "Cloud",
+        "App_Type": "Web",
+        "App_SLA": "48",
+        "App_Risk": "None",
+        "App_Region": "S.ASIA",
+        "App_Assets": "Transaction Machines"
+    },
+    {
+        "App_Name": "YDQ",
+        "App_ID": 894808,
+        "App_Env": "Archive",
+        "App_LOB": "WSS",
+        "App_LOC": "Hybrid",
+        "App_Type": "Compute",
+        "App_SLA": "8",
+        "App_Risk": "BASEL",
+        "App_Region": "AUS",
+        "App_Assets": "Serverless Functions"
+    },
+    {
+        "App_Name": "DMF",
+        "App_ID": 474,
+        "App_Env": "Prod",
+        "App_LOB": "IB",
+        "App_LOC": "Hybrid",
+        "App_Type": "Compute",
+        "App_SLA": "72",
+        "App_Risk": "Investment",
+        "App_Region": "EMEA",
+        "App_Assets": "Desktops"
+    },
+    {
+        "App_Name": "XEG",
+        "App_ID": 532157,
+        "App_Env": "Perf",
+        "App_LOB": "Legal",
+        "App_LOC": "Cloud",
+        "App_Type": "Compute",
+        "App_SLA": "8",
+        "App_Risk": "Cust Facing",
+        "App_Region": "SE.ASIA",
+        "App_Assets": "Desktops"
+    },
+    {
+        "App_Name": "RIB",
+        "App_ID": 207602,
+        "App_Env": "Test",
+        "App_LOB": "CCM",
+        "App_LOC": "Cloud",
+        "App_Type": "Compute",
+        "App_SLA": "12",
+        "App_Risk": "None",
+        "App_Region": "E.ASIA",
+        "App_Assets": "Servers"
+    },
+    {
+        "App_Name": "NQO",
+        "App_ID": 911148,
+        "App_Env": "DR",
+        "App_LOB": "Legal",
+        "App_LOC": "Cloud",
+        "App_Type": "CRM",
+        "App_SLA": "12",
+        "App_Risk": "SOX",
+        "App_Region": "LATAM",
+        "App_Assets": "Serverless Functions"
+    },
+    {
+        "App_Name": "TQK",
+        "App_ID": 171949,
+        "App_Env": "QA",
+        "App_LOB": "IB",
+        "App_LOC": "On-Prem",
+        "App_Type": "CRM",
+        "App_SLA": "8",
+        "App_Risk": "Cust Facing",
+        "App_Region": "SE.ASIA",
+        "App_Assets": "Desktops"
+    },
+    {
+        "App_Name": "ZJQ",
+        "App_ID": 316800,
+        "App_Env": "Dev",
+        "App_LOB": "TSS",
+        "App_LOC": "On-Prem",
+        "App_Type": "Compute",
+        "App_SLA": "48",
+        "App_Risk": "None",
+        "App_Region": "S.ASIA",
+        "App_Assets": "Desktops"
+    },
+    {
+        "App_Name": "ASG",
+        "App_ID": 54504,
+        "App_Env": "DR",
+        "App_LOB": "CCM",
+        "App_LOC": "Hybrid",
+        "App_Type": "Web",
+        "App_SLA": "8",
+        "App_Risk": "BASEL",
+        "App_Region": "E.ASIA",
+        "App_Assets": "Transaction Machines"
+    },
+    {
+        "App_Name": "BTY",
+        "App_ID": 294852,
+        "App_Env": "DR",
+        "App_LOB": "ETS",
+        "App_LOC": "Cloud",
+        "App_Type": "DB",
+        "App_SLA": "8",
+        "App_Risk": "Cust Facing",
+        "App_Region": "USNA",
+        "App_Assets": "Desktops"
+    }
+]

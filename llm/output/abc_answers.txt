@@ -1,0 +1,269 @@
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: Old Village Kahare (Old Village Halls) is a tool for mapping coordinates to locations of some, but not all, North Indian villages visited while HHC visited North India and Pakistan. Q: NVS includes maps to some modern venues. What about venues with no maps?
+A: Many venues exist which are used as wedding halls and similar venues. They are not needed because they did not exist at the time of HHC travels, however, we felt that it is important to collect data from venues like the Beer Bar in Ferozepore from whom an enterprising friend brewed his ingenious Hoop Brewing invention which can be made from locally obtained materials.
+Q: Do I need to get permission if I want to visit a town in North India and Pakistan?
+A: Your obligations are that of an "invited guest" while on someone else's property. The owner is responsible for you while you are on his property. Try to stay in a prominent part of town or one of the villages.
+A: The computer is a program to spit out a village index once you find the location of a village, town or baba's house by the methods presented on the HHC site.  Q: Why do I have to define locations that can be remembered by name?
+A: North India is a huge place full of history. Things change slowly. HHC provides approximate locations for oft hidden-relatively value past adventures and people of value with whom to spend time talking.
+Q: Why would I want to get high and revisit the past from the times of the Raj?
+A: It is a good way to stave off Alzheimer's for a few more decades. Because it is important to know what life was like during the time that the British and other European adventurers ruled India and Pakistan. Finally, it is a good way to relax and get into a dreamy state and escape the ZOG Machine for a while.  Because you already have the creative energy to transform your self to the time and place with your mind, you do NOT have to venture into the drug scene to "get there to begin with". 
+Q: How Do I Find a Village?
+A: There are so may ways to find a village in North India. These are just a few: 
+1. Keep in touch with a granny in Dera Allah Charrai via the landline telephone in her mud house. Her family is very
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: It is a backup of the game's data and saves.
+Q: What is the file for?
+A: It is a savegame editor.
+Q: How do I use it?
+A: While playing the game press Ctrl + F12 to activate it. You can also use the "Save manager" in the menu.
+Q: I have the save editor but I don't see anything. How do I see saves?
+A: Load a save.
+Q: I loaded a save but nothing happened. Do I have to do anything?
+A: No. Saves are automatically loaded.
+Q: I have the save editor and I see saves. But there is nothing to edit.
+Q: How do I edit saves?
+A: You can edit all of the saves except the Profile save. To edit a save do the following:
+1) Go to the "Saving" tab.
+Q: I have the save editor and I see saves. I can edit some but not others. What's wrong?
+A: The save that you are trying to edit is either a Profile save or a Multiplayer save. You can't do anything with them.
+Q: I have the save editor and I can't edit all of the saves. What's wrong?
+A: You need to have the savegame files.
+Q: Where do I get them?
+A: Download this savegame archive . It contains all the savegame files you need.
+Q: I have the savegame files. How do I use them?
+A: If you are using the save editor while a game is running then you can use the "Load game" button in the save selection menu.
+Q: If I load a save and then load a game that is earlier in the save, will the save be overwritten?
+A: Yes.
+Q: If I load a save and then load a game that is later in the save, will the save be overwritten?
+A: Yes.
+Q: What happens if I load a game in the middle of a save?
+A: The game will load and then you will have to reload the save.
+Q: Why can't I see multiplayer saves?
+A: Because multiplayer saves are stored in a different format.
+Q: How do I convert multiplayer to single player saves?
+A: Download this tool (saveconverter.
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: The file is about the "good old days" of the BBS, the shareware/freeware scene, and the community of people that made up the shareware/freeware scene.
+
+Q: Where can I get the file?
+A: The file is available for download at the Internet Archive.
+
+Q: What does the file contain?
+A: The file contains over 4,000 entries listing shareware and freeware programs that were available for download in the late 1980s and early 1990s. The entries are in alphabetical order.
+
+Q: What programs are listed in the file?
+A: The file contains entries for programs, games, and utilities.
+
+Q: How do I use the file?
+A: The file is in text format, so you can use your favorite text editor to search the file.
+
+Q: What is the license for the file?
+A: The file is in the public domain.
+
+Q: Who created the file?
+A: The file was created by a group of people who called themselves "The Shareware Circle". The group included:
+
+Q: What is the source of the file?
+A: The file was originally published in "The Circle: The Shareware Magazine", a shareware magazine published by "The Shareware Circle".
+
+Q: What is the Internet Archive?
+A: The Internet Archive is a non-profit organization that preserves old versions of webpages and other online media.
+
+Q: Why did the Internet Archive preserve this file?
+A: The Internet Archive believes that old software should be preserved.
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: The file is about 166 KB.
+According to our data, this program is possibly not virus and malware free. For your own safety, we recommend you to check the file and run an antivirus and anti-malware check before using this program. You can also find more information about this program on sony.com.
+
+Q: How do I install the file?
+A: First, download the file and run the program to install it on PC. Then, check "NextGenWalkthroughs1.41_Release_incl_KeyGen-MESMERiZE.exe - Download & Installation", tick the "I Accept" option and press the "Download" button. Don't press anything before the download is complete.
+
+Q: What does the file do?
+A: According to our research, the application has not been thoroughly tested by our experts. We advise you to be careful regarding this program. We expect that the program is malware and unsafe since it may contain viruses.
+
+Q: How do you erase this file?
+A: If you want to remove the installed program, you can use the uninstaller or do it manually by following the instructions that you can find below.
+
+How to uninstall NextGenWalkthroughs1.41_Release_incl_KeyGen-MESMERiZE.exe with Advanced Uninstaller PRO
+
+go to http://www.advanceduninstaller.com/download/
+
+download the setup by pressing the green DOWNLOAD NOW button
+
+install Advanced Uninstaller PRO
+
+Safety rating (in the left lower corner). This explains the opinion other users have regarding NextGenWalkthroughs1.41_Release_incl_KeyGen-MESMERiZE.exe, from "Highly recommended" to "Very dangerous".
+Next of the uninstall process.
+
+Geographical user distribution
+
+Users that installed NextGenWalkthroughs1.41_Release_incl_KeyGen-MESMERiZE.exe: United States 83.33% Romania 16.67% 10.0
+
+Windows 7 (6.1)
+
+Windows 8.1 (6.3)
+
+Windows XP (5.1) Software Application
+
+Disclaimer
+
+2016-06-18 / Written by Andreea Kartman for Advanced Uninstaller PRO follow @DeeaKartman
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: The file is a list of names of all of the people that Hillary has been associated with who have died.
+Q: How did you compile the file?
+A: I did not compile the file.
+Q: Who did compile the file?
+A: If you mean who created it, then the answer is most likely a guy named Chris Stone. He sent it to me via email.
+Q: So this file was sent to you?
+A: Yes.
+Q: By whom?
+A: By Chris Stone.
+Q: How did he obtain it?
+A: I don't know.
+Q: Who is Chris Stone?
+A: He is a researcher who writes about political assassinations and other stuff.
+Q: How do you know him?
+A: He sent me an email message back in the 1990s when I was the editor of a magazine called "The New York Investigator" and he had some information about Jim Garrison and New Orleans District Attorney Jim Garrison's investigation into the assassination of John Kennedy.
+Q: Do you know Chris Stone's telephone number?
+A: Yes.
+Q: And what is that?
+A: It's (xxx) xxx-xxxx.
+Q: Do you know Chris Stone's address?
+A: Yes.
+Q: And what is that?
+A: It's (xxx) xxx-xxxx.
+Q: Do you know the name of Chris Stone's wife?
+A: Yes.
+Q: And what is that?
+A: It's (xxx) xxx-xxxx.
+Q: Do you know Chris Stone's mother's name?
+A: Yes.
+Q: And what is that?
+A: It's xxx xxx-xxxx.
+Q: Do you know Chris Stone's father's name?
+A: Yes.
+Q: And what is that?
+A: It's xxx xxx-xxxx.
+Q: Do you know Chris Stone's brother's name?
+A: Yes.
+Q: And what is that?
+A: It's xxx xxx-xxxx.
+Q: Do you know Chris Stone's sister's name?
+A: Yes.
+Q: And what is that?
+A: It's xxx xxx-xxxx.
+Q: How many people's names are in the file?
+A: I don't
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: It is a very large file with a list of every single person who attended the first two days of the conference. It includes their name, email address, phone number, company, title, photo, and any notes that were written about them.
+The file was created by the conference's organizer, Chris Vickery. It is not clear why he collected the data or who he was planning on giving it to.
+It is not clear who the file was intended for.
+The file is not a database and does not include any information about the conference or about the people who attended it.
+The file was created in December 2013, but was not discovered until 2015.
+Q: How did the file get exposed?
+A: Chris Vickery, the conference organizer, accidentally exposed the file to the internet.
+A security researcher found it by doing a search on Shodan.io, a search engine that lets you search for computers and servers that are connected to the internet.
+The researcher found the file because the file had been indexed by Google, and he was able to access it because it was not protected by a password.
+Q: Who is Chris Vickery?
+A: He is a security researcher who has found several similar exposed files.
+Q: Why was the file exposed?
+A: It is not clear why the file was exposed to the internet.
+Q: What is in the file?
+A: The file contains a list of every person who attended the conference. It includes their name, email address, phone number, company, title, photo, and any notes that were written about them. It also includes their Twitter username, if they have one.
+The file does not contain any of the conference's agenda, any of the conference's presentations, or any information about the conference.
+Q: What is the file's format?
+A: It is a very large text file.
+Q: What is in the file's columns?
+A: The file has seven columns.
+1. Name
+2. Email Address
+3. Phone Number
+4. Company
+5. Title
+6. Photo
+7. Notes
+Q: Who is in the file?
+A: The file contains information about every person who attended the conference.
+It includes their name, email address, phone number, company, title, photo, and any notes that were written about them. It also includes their Twitter username, if they
+
+Temperature value set to: 1.0
+Token value set to: 500
+Answer: The updatus.dat file contains saved game coordinates to teleport the player to various parts of RuneScape. Q: Are there technical reasons for requiring a save file?
+A: There are multiple reasons why a save file is required to conduct the teleport successfully. To begin with, the save file itself is needed to store the current player coordinates. In addition, converting coordinates into RuneScape coordinates and hoping for the best would not be effective. RuneScape is an incredibly vast game. Open wilderness in some places are 3500+ tiles apart from each other. The purpose of determining where the player is in RuneScape is to not only provide efficiency for the player but also make them feel as if they're actually traveling somewhere in-game. There are also technical risks associated with connecting the client by itself. Client memory is limited and complex calculations are required such as converting number values to binary and doing calculations based on the current rune and level. Q: Does save mean my account has been transferred to new servers?
+A: Since this is not a backup system, no save is the same as no transfer. Q: Will my character be deleted once the save restore server goes down?
+A: Sadly, yes. Q: How can we check there is no permanent data transfer of player data from RS2 to servers in the future?
+A: In terms of the save system, that cannot be checked. The files downloaded from the servers is just a RuneScape 2 Save, which cannot be read in an application. If any future update for data transfer (character name, bank items), Jagex will notify us through another Knowledge Base article. Q: Does signing in with my grandfathered playtime count towards my 120 days to keep my account?
+A: No, however any days accrued beyond the five month Christmas/Deadman freeze would carry over to Old School RuneScape. Q: How can we check if players using computers other than desktop (laptops, phones, etc.) to run RS2, Game Save Data can be extracted? (I assume qbdanks consent is needed, in case data is extracted.)
+A: You already have consent to transfer your game saves by qbdank. Q: How can we check for players being banned due to Game Save Data Transfer?
+A: We will not remove any principal members/accounts based on save data transfers solely. If it is an alt or throwaway account, however
+
+Temperature value set to: 0.7
+Token value set to: 500
+Answer: It is a JPG image that contains a list of all known games, short descriptions and links to their download sites.
+Q: Why is it important?
+A: It is a great tool for new users or people who are unfamiliar with the emulator. It is very easy to navigate, find a game and download it using the file. You have everything you need in a single file.
+Q: Who created the file?
+A: The file was created by a user called MathOnNapkins.
+Q: Why is he so special?
+A: Well, he is the only person who did the job. The only person who created a file like that and updated it regularly.
+Q: Why is it so difficult to create and update such a file?
+A: Well, it is not an easy task. You have to find the games, write a short description, add a link to the download site and upload the file. It takes time and effort.
+Q: Why should I help him?
+A: Because the file is important for the community.
+Q: How can I help him?
+A: You can donate some money to him on Patreon. You can also donate on PayPal.
+Q: Why should I donate?
+A: Because the money will help him to buy a laptop and a better internet connection. Without a better connection, it will be harder for him to find new games and update the file.
+Q: How much money does he need?
+A: Approximately $100 per month.
+Q: Why should I donate $2 or $3 per month?
+A: Because it is a good cause and you can help him. If many people donate small amounts, it will be enough for him to buy a laptop and a better internet connection.
+Q: I don't have much money, can I still help him?
+A: Yes, you can! You can help him by sharing this blog post with your friends. You can also share it on Twitter and Facebook.
+Q: I have more questions.
+A: I will update this post with more questions and answers.
+Q: How can I contact the author of the file?
+A: You can't. He has a Patreon page and a PayPal account so you can donate to him. But you can't contact him.
+
+Temperature value set to: 0.5
+Token value set to: 500
+Answer: This file contains the names of the people who have been reported missing from the State of New York.
+The file is in ASCII text format.
+The file was obtained from the New York State Police, Division of Criminal Justice Services.
+The file is for the years 1991 to 1999.
+The file is named NYS_MISSING_PERSONS.DAT.
+The size of the file is 2,812,874 bytes.
+The MIRS ID is NYS_MISSING_PERSONS.
+The file was last updated on 03/01/2000.
+The file is located in the MIRS Archive.
+
+Q: How do I use the file?
+A: The file is in ASCII text format. You can use any text editor to display the contents of the file.
+A free text editor that you can download is Notepad.
+The data in the file is in fixed length fields. The fields are separated by commas.
+The fields are:
+MIRS ID, Case Number, Last Name, First Name, Middle Name, Suffix, Sex, Race, DOB, Age, Height, Weight, Hair Color, Eye Color, Scars, Marks, Tattoos, Address, City, County, State, Zip Code, Social Security Number, Date Missing, Date of Birth, Date of Report, Circumstances of Disappearance, Place of Disappearance, Source, Date Entered, Date Updated, and Agency.
+
+Q: What does the data look like?
+A: The following is an example of the contents of the file.
+MIRS ID, Case Number, Last Name, First Name, Middle Name, Suffix, Sex, Race, DOB, Age, Height, Weight, Hair Color, Eye Color, Scars, Marks, Tattoos, Address, City, County, State, Zip Code, Social Security Number, Date Missing, Date of Birth, Date of Report, Circumstances of Disappearance, Place of Disappearance, Source, Date Entered, Date Updated, and Agency.
+
+Q: How do I get the file?
+A: Click here to download the file.
+
+Q: What is the file about?
+A: This file contains the names of the people who have been reported missing from the State of New York.
+The file is in ASCII text format.
+The file was obtained
